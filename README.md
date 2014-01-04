@@ -1,6 +1,12 @@
-# Casper
+# casper-cs
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+A customized version of the default theme for [Ghost](http://github.com/tryghost/ghost/).
+
+# Installation
+
+Download or clone repository into your content/themes directory of your Ghost install. Restart your ghost server. Log in to the admin panel and choose the casper-cs theme from the settings panel.
+
+The social links in the header are hardcoded until I can find a better solution. To change these links edit index.hbs.
 
 ## Copyright & License
 
